@@ -1,6 +1,5 @@
 # Metamask brute force
-"This program checks the balance of a MetaMask log file, extracts vault data, and brute-forces the vault data."
-
+This program extracts vault data from a MetaMask log file , performs brute-force on it and extracts the mnemonic.
 
 Starting processing in directory: C:\metamaskbrut
 
