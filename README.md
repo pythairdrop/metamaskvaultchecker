@@ -1,17 +1,24 @@
 # Metamask brute force
+
 This program extracts vault data from a MetaMask log files , performs brute-force on it and extracts the mnemonic.
 
 Starting processing in directory: C:\metamaskbrut
 
 Processing file: C:\metamaskbrut\000233.log
+
 Vault extracted and saved to file: C:\metamaskbrut\000233.log.hash
+
 Ethereum address found: 0x3b74B91360d7c1B59DC157dCfe01aBae72557df2
+
 Balance for address 0x3b74B91360d7c1B59DC157dCfe01aBae72557df2: 0.03913388434350565 ETH
 
 
 Processing file: C:\metamaskbrut\00023664.log
+
 Vault extracted and saved to file: C:\metamaskbrut\00023664.log.hash
+
 Ethereum address found: 0xbd8ba29bbfeccb987c52451c222b387f1e2b03a8
+
 Balance for address 0xbd8ba29bbfeccb987c52451c222b387f1e2b03a8: 0.00000000000000000 ETH
 
 
